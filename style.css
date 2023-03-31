@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+.header {
+    color: darkslateblue;
+}
+
+
+.header h1 {
+    text-align: center;
+}
+
+.form-group {
+    color: black;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center ;
+    color: darkblue;
+}
+
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: darkorange;
+}
